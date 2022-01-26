@@ -15,7 +15,7 @@ public class StudentList {
         
         Scanner input = new Scanner(System.in);
         
-        Student[] students = new Student[3];
+        Student[] students = new Student[4];
         
         for (int i = 0; i < students.length; i++) {
             System.out.println("Enter the name for student " + (i + 1));
