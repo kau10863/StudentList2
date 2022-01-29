@@ -3,7 +3,7 @@ package studentlist;
 
 /**
  *
- * @author navjeetkaur
+ * @author navjeetkaur jan 2022
  */
 public class PartTimeStudent extends Student{
     private int numCourses;
