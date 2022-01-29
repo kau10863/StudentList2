@@ -2,7 +2,7 @@ package studentlist;
 
 /**
  *
- * @author paulbonenfant
+ * @author paulbonenfant Jan 2022
  */
 public class Student {
 
